@@ -1,0 +1,46 @@
+
+Lesson 1 modules comments and pip
+
+Let's write our first python program create a file called hello.py and paste the below code in it
+         print("hello world")
+          
+           ^
+           Print is a function
+           
+Execute this file ( .py file) by typing python hello.py
+And you will see hello world printed on the screen
+
+Modules
+
+Nodules is a file containing code written by somebody else (usually) which can be imported and used in our program
+
+PIP
+Pip is the package manager for python you can use PIP to install a module on your system . 
+                
+                pip install pyinstaller
+                Pyinstaller is a module
+                
+Type of modules
+There are two types of modules in python
+ (1) built in modules ==> pre installed in python  
+ (2) external modules ==> need to install using pip
+ Some examples of built in modules like os, abc, etc.
+ Some examples of external modules are tensorflow , flask etc.
+
+ Python use as a calculator
+ We can use python as a calculator by typing "python" +enter on the terminal
+                  this opens REPL
+
+           or Read Evaluate Print Loop
+             
+Comment's      
+Humans are used to write something which the program does not want to execute 
+              Can be used to make
+              Author name date etc
+
+
+Type of comments
+There are two type of comment python
+(1) Single line comments ==> written using #
+(2) Multi line comments.  ==> Written using ' ' ' comments ' ' '
+
